@@ -1,0 +1,14 @@
+C:\Users\rayan\source\repos\consoleapp\bin\Debug\net8.0\consoleapp.exe
+C:\Users\rayan\source\repos\consoleapp\bin\Debug\net8.0\consoleapp.deps.json
+C:\Users\rayan\source\repos\consoleapp\bin\Debug\net8.0\consoleapp.runtimeconfig.json
+C:\Users\rayan\source\repos\consoleapp\bin\Debug\net8.0\consoleapp.dll
+C:\Users\rayan\source\repos\consoleapp\bin\Debug\net8.0\consoleapp.pdb
+C:\Users\rayan\source\repos\consoleapp\obj\Debug\net8.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayan\source\repos\consoleapp\obj\Debug\net8.0\consoleapp.AssemblyInfoInputs.cache
+C:\Users\rayan\source\repos\consoleapp\obj\Debug\net8.0\consoleapp.AssemblyInfo.cs
+C:\Users\rayan\source\repos\consoleapp\obj\Debug\net8.0\consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\rayan\source\repos\consoleapp\obj\Debug\net8.0\consoleapp.dll
+C:\Users\rayan\source\repos\consoleapp\obj\Debug\net8.0\refint\consoleapp.dll
+C:\Users\rayan\source\repos\consoleapp\obj\Debug\net8.0\consoleapp.pdb
+C:\Users\rayan\source\repos\consoleapp\obj\Debug\net8.0\consoleapp.genruntimeconfig.cache
+C:\Users\rayan\source\repos\consoleapp\obj\Debug\net8.0\ref\consoleapp.dll

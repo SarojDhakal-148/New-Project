@@ -1,0 +1,14 @@
+C:\Users\rayan\source\repos\ModifiedProgram\obj\Debug\net8.0\ModifiedProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayan\source\repos\ModifiedProgram\obj\Debug\net8.0\ModifiedProgram.AssemblyInfoInputs.cache
+C:\Users\rayan\source\repos\ModifiedProgram\obj\Debug\net8.0\ModifiedProgram.AssemblyInfo.cs
+C:\Users\rayan\source\repos\ModifiedProgram\obj\Debug\net8.0\ModifiedProgram.csproj.CoreCompileInputs.cache
+C:\Users\rayan\source\repos\ModifiedProgram\bin\Debug\net8.0\ModifiedProgram.exe
+C:\Users\rayan\source\repos\ModifiedProgram\bin\Debug\net8.0\ModifiedProgram.deps.json
+C:\Users\rayan\source\repos\ModifiedProgram\bin\Debug\net8.0\ModifiedProgram.runtimeconfig.json
+C:\Users\rayan\source\repos\ModifiedProgram\bin\Debug\net8.0\ModifiedProgram.dll
+C:\Users\rayan\source\repos\ModifiedProgram\bin\Debug\net8.0\ModifiedProgram.pdb
+C:\Users\rayan\source\repos\ModifiedProgram\obj\Debug\net8.0\ModifiedProgram.dll
+C:\Users\rayan\source\repos\ModifiedProgram\obj\Debug\net8.0\refint\ModifiedProgram.dll
+C:\Users\rayan\source\repos\ModifiedProgram\obj\Debug\net8.0\ModifiedProgram.pdb
+C:\Users\rayan\source\repos\ModifiedProgram\obj\Debug\net8.0\ModifiedProgram.genruntimeconfig.cache
+C:\Users\rayan\source\repos\ModifiedProgram\obj\Debug\net8.0\ref\ModifiedProgram.dll
